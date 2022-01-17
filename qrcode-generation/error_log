@@ -1,0 +1,4 @@
+[25-Dec-2017 19:32:55 Etc/GMT] PHP Parse error:  syntax error, unexpected ''images/'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/onlin4yu/public_html/demo/qrcodeci/application/controllers/QrController.php on line 37
+[25-Dec-2017 19:34:31 Etc/GMT] PHP Parse error:  syntax error, unexpected ''images/'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/onlin4yu/public_html/demo/qrcodeci/application/controllers/QrController.php on line 37
+[04-Oct-2018 18:18:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/onlin4yu/public_html/demo/democi/application/controllers/Home.php on line 12
+[04-Oct-2018 18:19:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/onlin4yu/public_html/demo/democi/application/controllers/Home.php on line 12
